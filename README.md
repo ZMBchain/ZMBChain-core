@@ -1,0 +1,2 @@
+# ZMBChain-core
+blockchain
